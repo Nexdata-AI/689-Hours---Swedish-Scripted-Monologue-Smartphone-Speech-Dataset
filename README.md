@@ -6,23 +6,23 @@ Swedish Scripted Monologue Smartphone Speech Dataset, collected from monologue b
 For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/1423?source=Github
 
 ## Specifications
-Format
+### Format
 16kHz, 16bit, uncompressed wav, mono channel.
-Recording condition
+### Recording condition
 quiet indoor environment, low background noise, without echo;
-Recording device
+### Recording device
 Android smartphone, iPhone;
-Speaker
+### Speaker
 1,339 native speakers in total, 55% male and 45% female;
-Country
+### Country
 Sweden(SWE);
-Language(Region) Code
+### Language(Region) Code
 sv-SE;
-Language
+### Language
 Swedish;
-Features of annotation
+### Features of annotation
 Transcription text;
-Accuracy Rate
+### Accuracy Rate
 Word Accuracy Rate (WAR) 95%;
 
 ## Licensing Information
