@@ -1,4 +1,4 @@
-# 689-Hours---Swedish-Scripted-Monologue-Smartphone-Speech-Dataset
+# 689-Hours-Swedish-Scripted-Monologue-Smartphone-Speech-Dataset
 
 ## Description
 Swedish Scripted Monologue Smartphone Speech Dataset, collected from monologue based on given scripts. Transcribed with text content. Our dataset was collected from extensive and diversify speakers(1,339 people in total, from Sweden), geographicly speaking, enhancing model performance in real and complex tasks.Quality tested by various AI companies. We strictly adhere to data protection regulations and privacy standards, ensuring the maintenance of user privacy and legal rights throughout the data collection, storage, and usage processes, our datasets are all GDPR, CCPA, PIPL complied.
